@@ -1,1 +1,6 @@
 /target/
+.vscode
+.settings
+.git
+.classpath
+.project
